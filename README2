@@ -42,7 +42,7 @@ Crear Carpeta donde descargare el proyecto
 $ mkdir ClaseGitHUb
 $ cd ClaseGitHUb
 
-Arracando proyecto
+Arracando proyecto | Creando nuevo repositorio
 $ git init
 Initialized empty Git repository in c:/Users/User001/Documents/ClaseGitHUb/.git/
 

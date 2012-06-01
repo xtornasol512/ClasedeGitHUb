@@ -1,0 +1,26 @@
+COnectarse a otro proyecto como FORK
+
+Paso 1
+Ir a un proyecto en concreto podemos como ejemplo ir a 
+html5-boilerplate
+
+Paso 2
+Dar clic a fork
+Esperamos y gitHUB nos dara un repositorio completamente igual a nuetra cuenta
+
+Paso 3 
+COpiamos el git read only 
+
+Pas 4
+Creamos carpeta en el disco duro
+$ cd ..
+$ mkdir boiler plate
+$ cd boiler plate
+
+Creamos el nuevo REpositorio 
+$ git init
+Conectamos (aqui es donde pegamos el git url que nos da en la pagina de github del proyecto)
+$ git remote add origin git://github.com/xtornasol512/html5-boilerplate.git
+Descargamos
+$ git pull origin master
+
