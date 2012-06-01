@@ -88,4 +88,5 @@ Agregamos el archivo
 $ git add README2
 
 $ git commit -m "comandos aprendidos en la clase"
+$ git push origin master
 
