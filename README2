@@ -71,3 +71,21 @@ Este comando sube el archivo a gitHUB
 $ git push origin master
 Tambien pide autencidad volver a poenr clave ssh  
 
+
+SUbir modificaciones GItHUB
+$ git status
+
+# On branch master
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#       modified:   README2
+#
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Agregamos el archivo 
+$ git add README2
+
+$ git commit -m "comandos aprendidos en la clase"
+
